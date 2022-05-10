@@ -89,9 +89,9 @@ app.listen(PORT, () =>
   console.log(`Note Taker App is running at http://localhost:${PORT} 🚀`)
 );
 
-module.exports = {
-  readDb: readDb,
-  writeDb: writeDb
-}
+// module.exports = {
+//   readDb: readDb,
+//   writeDb: writeDb
+// }
 
 
